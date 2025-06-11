@@ -1,0 +1,50 @@
+
+//arithmetic operreter
+let a=30;
+let b=30;
+console.log (a+b);
+console.log(a-b);
+console.log(a*b);
+console.log(a/b);
+
+console.log(a%b);
+console.log(a**b);
+
+console.log(a++);
+console.log(++a);
+
+console.log(b--);
+console.log(--b);
+
+console.log("string"+30);
+console.log(20+30+"string");
+console.log(true+"string");
+console.log(typeof +"text");
+console.log(typeof typeof +"text");
+//concadination 
+console.log(++(+"20"));
+
+leta=40;
+c+=2;
+console.log(c);
+c-+3
+console.log(c);
+c=c+2
+
+let st1="xyz"
+let  st2="xyz";
+//normal comparision 
+console.log(st1==st2);
+//strict comparision 
+console.log(st1===st2);
+
+let l="2";
+console.log(3+1);
+
+let f=3;
+console.log((2<4)&&(f++<5))
+console.log(f);
+
+//not opereter
+console.log(!true);
+
